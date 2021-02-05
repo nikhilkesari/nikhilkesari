@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Nikhil from India.
 #### I love programming and reading books. Studied computer science and enjoy software engineering
-![I love programming and reading books. Studied computer science and enjoy software engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I love programming and reading books. Studied computer science and enjoy software engineering](https://github.com/nikhilkesari/nikhilkesari/blob/master/Screenshot%202021-02-05%20at%2013.51.12.png)
 
 I work as an Engineering Manager for Bigbasket India's largest online grocery store.
 
