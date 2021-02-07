@@ -2,9 +2,9 @@
 #### I love programming and reading books. Studied computer science and enjoy software engineering
 ![I love programming and reading books. Studied computer science and enjoy software engineering](https://github.com/nikhilkesari/nikhilkesari/blob/master/Screenshot%202021-02-05%20at%2013.51.12.png)
 
-## I work as an Engineering Manager for Bigbasket India's largest online grocery store.
+### I work as an Engineering Manager for Bigbasket India's largest online grocery store.
 
-### Skills: Java / REACT / JavaScript / HTML / CSS / Node
+## Skills: Java / REACT / JavaScript / HTML / CSS / Node
 
 - 🔭 I’m currently working on React JS and Java 
 - 🌱 I’m currently learning Gatsby 
