@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Nikhil from India.
 ![I love programming and reading books. Studied computer science and enjoy software engineering](https://github.com/nikhilkesari/nikhilkesari/blob/master/Screenshot%202021-02-05%20at%2013.51.12.png)
-#### I work as an **Engineering Manager** for [Bigbasket](https://www.bigbasket.com) India's largest online grocery store. I love programming and reading books. Studied computer science and enjoy software engineering.
-> I have worked as a software developer for over 16 years now. Most of my work revolves around building website and middleware applications for all platforms. Experience in banking, finance, retail and e-commerce domain. 
+#### I work as an **Engineering Manager** for [Bigbasket](https://www.bigbasket.com) India's largest online grocery store. I love programming and reading books. Studied computer science and still continue to be a student of computer science.
+> I have worked as a software engineer for over 16 years now. Most of my work revolves around building website and middleware applications for all platforms. Experience in banking, finance, retail, travel and e-commerce domain.  
 ***
 ## Skills: Java / REACT / JavaScript / HTML / CSS / Node
 
